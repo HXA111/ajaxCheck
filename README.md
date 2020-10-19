@@ -1,0 +1,2 @@
+# ajaxCheck
+jquery和ajax
